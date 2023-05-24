@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Game Art](https://media.discordapp.net/attachments/1045629304609964047/1047093044224196668/HalfSword_Logo_001.png)
+- Half Sword is a physics-based medieval combat simulator featuring historically accurate XV-century arms and armor.
+- The game's setting in 15th-century Europe adds an extra layer of realism, with detailed environments and accurate depictions of historical weapons and armor. This period in European history was known for its brutal and bloody battles, making the experience all the more immersive for players.
