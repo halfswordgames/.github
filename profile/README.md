@@ -1,3 +1,3 @@
-![Game Art](https://media.discordapp.net/attachments/1213768500225638460/1216987766743629905/HS_Wallpaper1_002.png?ex=6602632e&is=65efee2e&hm=a6efca3550b010dad9766b01053b52b3a460329ff78951e5cb62d1448a62b47e&=&format=webp&quality=lossless&width=1193&height=671)
+![Game Art](https://github.com/halfswordgames/.github/blob/main/profile/HS_Wallpaper1_003.png?raw=true)
 - Half Sword is a physics-based medieval combat simulator featuring historically accurate XV-century arms and armor.
 - The game's setting in 15th-century Europe adds an extra layer of realism, with detailed environments and accurate depictions of historical weapons and armor. This period in European history was known for its brutal and bloody battles, making the experience all the more immersive for players.
